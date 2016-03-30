@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en-US"><![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10" lang="en-US"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+	<meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://a62.dc4.myftpupload.com/xmlrpc.php">
+
+    <!--[if lt IE 9]>
+    <script src="http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+    
+	<link rel="alternate" type="application/rss+xml" title="StartHub | Site Wide Activity RSS Feed" href="http://a62.dc4.myftpupload.com/activity/feed/" />
+
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var ajaxurl = 'http://a62.dc4.myftpupload.com/wp-admin/admin-ajax.php';
+			/* ]]> */
+		</script>
+
+		
+	<title>StartHub &#8211; By AndSocialREW Gaming and Publishing</title>
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="StartHub &raquo; Feed" href="http://a62.dc4.myftpupload.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="StartHub &raquo; Comments Feed" href="http://a62.dc4.myftpupload.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/a62.dc4.myftpupload.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='kleo-bbpress-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/lib/plugins/bbpress/less/bbpress.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-parent-css-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/buddypress/css/buddypress.css?ver=2.5.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-kb-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/easy-kb/assets/css/easy-kb.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.62' type='text/css' media='all' />
+<link rel='stylesheet' id='wise_chat_core-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/wise-chat/css/wise_chat.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.72' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://a62.dc4.myftpupload.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='kleo-google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/css/bootstrap.min.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buddyapp-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/less/theme.min.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-font-icons-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/fonts/style.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-animate-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/css/animate.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/css/magnific-popup.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='outdatedbrowser-css'  href='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/js/3rd-plugins/outdatedbrowser/outdatedbrowser.min.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kleo-dynamic-css'  href='http://a62.dc4.myftpupload.com/wp-content/uploads/custom_styles/kleo_dynamic.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cleverness_todo_list_frontend-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/cleverness-to-do-list/css/cleverness-to-do-list-frontend.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.ui.theme-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/cleverness-to-do-list/css/jquery-ui-fresh.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://a62.dc4.myftpupload.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://a62.dc4.myftpupload.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://a62.dc4.myftpupload.com/wp-includes/css/dashicons.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rtmedia-main-css'  href='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress-media/app/assets/css/rtmedia.min.css?ver=3.10.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/plupload/plupload.full.min.js?ver=2.1.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=2.5.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=2.5.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=2.5.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress/bp-core/js/jquery-cookie.min.js?ver=2.5.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress/bp-core/js/jquery-scroll-to.min.js?ver=2.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/buddypress/js/buddypress.js?ver=2.5.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/a62.dc4.myftpupload.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/a62.dc4.myftpupload.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/a62.dc4.myftpupload.com\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/a62.dc4.myftpupload.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.62'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/js/modernizr.custom.92164.js?ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rtmedia_ajax_url = "http:\/\/a62.dc4.myftpupload.com\/wp-admin\/admin-ajax.php";
+var rtmedia_media_slug = "media";
+var rtmedia_lightbox_enabled = "1";
+var rtmedia_direct_upload_enabled = "0";
+var rtmedia_gallery_reload_on_upload = "1";
+var rtmedia_empty_activity_msg = "Please enter some content to post.";
+var rtmedia_empty_comment_msg = "Empty Comment is not allowed.";
+var rtmedia_media_delete_confirmation = "Are you sure you want to delete this media?";
+var rtmedia_media_comment_delete_confirmation = "Are you sure you want to delete this comment?";
+var rtmedia_album_delete_confirmation = "Are you sure you want to delete this Album?";
+var rtmedia_drop_media_msg = "Drop files here";
+var rtmedia_album_created_msg = " album created successfully.";
+var rtmedia_something_wrong_msg = "Something went wrong. Please try again.";
+var rtmedia_empty_album_name_msg = "Enter an album name.";
+var rtmedia_max_file_msg = "Max file Size Limit : ";
+var rtmedia_allowed_file_formats = "Allowed File Formats";
+var rtmedia_select_all_visible = "Select All Visible";
+var rtmedia_unselect_all_visible = "Unselect All Visible";
+var rtmedia_no_media_selected = "Please select some media.";
+var rtmedia_selected_media_delete_confirmation = "Are you sure you want to delete the selected media?";
+var rtmedia_selected_media_move_confirmation = "Are you sure you want to move the selected media?";
+var rtmedia_waiting_msg = "Waiting";
+var rtmedia_uploaded_msg = "Uploaded";
+var rtmedia_uploading_msg = "Uploading";
+var rtmedia_upload_failed_msg = "Failed";
+var rtmedia_close = "Close";
+var rtmedia_edit = "Edit";
+var rtmedia_delete = "Delete";
+var rtmedia_edit_media = "Edit Media";
+var rtmedia_remove_from_queue = "Remove from queue";
+var rtmedia_add_more_files_msg = "Add more files";
+var rtmedia_file_extension_error_msg = "File not supported";
+var rtmedia_more = "more";
+var rtmedia_less = "less";
+var rtmedia_delete_uploaded_media = "This media is uploaded. Are you sure you want to delete this media?";
+var rtm_wp_version = "4.4.2";
+var rtmedia_masonry_layout = "false";
+var rtmedia_media_size_config = {"photo":{"thumb":{"width":"150","height":"150","crop":"1"},"medium":{"width":"320","height":"240","crop":"1"},"large":{"width":"800","height":"0","crop":"1"}},"video":{"activity_media":{"width":"320","height":"240"},"single_media":{"width":"640","height":"480"}},"music":{"activity_media":{"width":"320"},"single_media":{"width":"640"}},"featured":{"default":{"width":"100","height":"100","crop":"1"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress-media/app/assets/js/rtmedia.min.js?ver=3.10.5'></script>
+<link rel='https://api.w.org/' href='http://a62.dc4.myftpupload.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://a62.dc4.myftpupload.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://a62.dc4.myftpupload.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel='shortlink' href='http://a62.dc4.myftpupload.com/' />
+
+	<script type="text/javascript">var ajaxurl = 'http://a62.dc4.myftpupload.com/wp-admin/admin-ajax.php';</script>
+
+			<style type="text/css">
+					.rtmedia-activity-container .media-type-photo .rtmedia-item-thumbnail {
+		max-width: 320px;
+		max-height: 240px;
+		overflow: hidden;
+		}
+		.rtmedia-activity-container .mejs-container.mejs-video{
+		min-height: 240px;
+		min-width: 320px;
+		}
+				.rtmedia-container ul.rtmedia-list li.rtmedia-list-item div.rtmedia-item-thumbnail {
+		width: 150px;
+		height: 150px;
+		line-height: 150px;
+		}
+		.rtmedia-container ul.rtmedia-list li.rtmedia-list-item div.rtmedia-item-thumbnail img {
+		max-width: 150px;
+		max-height: 150px;
+		}
+		.rtmedia-container .rtmedia-list  .rtmedia-list-item {
+		width: 150px;
+		}
+					</style>
+			<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://a62.dc4.myftpupload.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://a62.dc4.myftpupload.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="StartHub | Site Wide Activity RSS Feed" href="http://a62.dc4.myftpupload.com/activity/feed/" />
+
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var ajaxurl = 'http://a62.dc4.myftpupload.com/wp-admin/admin-ajax.php';
+			/* ]]> */
+		</script>
+
+	<link rel='canonical' href='http://a62.dc4.myftpupload.com/' />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home-page directory members  buddypress home page page-id-42 page-template-default page-transition wpb-js-composer js-comp-ver-4.11 vc_responsive no-js">
+	
+	
+
+<!-- Sidemenu Wrapper
+ ============================================= -->
+
+<div id="sidemenu-wrapper" class="sidemenu-colors has-sidemenu-footer">
+   
+    <div class="sidemenu-inner">
+       <div class="sidemenu-header">
+            
+            <div class="logo">
+                <!--logo standard-->
+                                    <a href="http://a62.dc4.myftpupload.com" class="real-logo standard-logo" data-retina="http://a62.dc4.myftpupload.com/wp-content/uploads/2016/03/10557350_788173194538956_2067104118698969057_n-1.png">
+                        <img src="http://a62.dc4.myftpupload.com/wp-content/uploads/2016/03/10557350_788173194538956_2067104118698969057_n-1.png" alt="StartHub">
+                    </a>
+                        
+                <!--mini logo - when sidemenu is minimized-->
+                                <a href="http://a62.dc4.myftpupload.com" class="mini-logo standard-logo" >
+                    <img src="http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/images/logo-mini.png" alt="StartHub">
+                </a>
+                            </div>
+            <p>Menu</p>
+        </div>
+        
+        <div class="sidemenu-main">
+            <div class="sidemenu-main-inner">
+                <div class="scroll-container-wrapper">
+                    <div class="scroll-container">
+                        
+                        <div class="menu-section click-menu">
+                        
+                            <ul class="menu-list kleo-nav-menu"><li class="page_item page-item-82"><a href="http://a62.dc4.myftpupload.com/about-2/"><i class="icon-buddyapp-default"></i> <span>About</span></a></li><li class="page_item page-item-41"><a href="http://a62.dc4.myftpupload.com/activity/"><i class="icon-buddyapp-default"></i> <span>Activity</span></a></li><li class="page_item page-item-63 page_item_has_children"><a href="http://a62.dc4.myftpupload.com/events/"><i class="icon-buddyapp-default"></i> <span>Events</span></a></li><li class="page_item page-item-59"><a href="http://a62.dc4.myftpupload.com/groups/"><i class="icon-buddyapp-default"></i> <span>Groups</span></a></li><li class="page_item page-item-42 current_page_item"><a href="http://a62.dc4.myftpupload.com/"><i class="icon-buddyapp-default"></i> <span>Members</span></a></li></ul>
+                        
+                        </div>
+                        
+                                                
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+            </div>
+
+</div>    <div id="fb-root"></div>
+    
+    <!-- Document Wrapper
+    ============================================= -->
+    <div id="page-wrapper" class="clearfix">
+
+        <!-- Header
+============================================= -->
+
+
+<header id="header" class="header-colors header-layout-01 has-search hover-menu">
+
+    <div id="header-wrap">
+
+            <div class="logo">
+                <!--mobile logo - only for mobile resolution-->
+                
+                    <a href="http://a62.dc4.myftpupload.com" class="mobile-logo standard-logo" data-retina="http://a62.dc4.myftpupload.com/wp-content/uploads/2016/03/10557350_788173194538956_2067104118698969057_n.png">
+                        <img src="http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/images/logo-dark.png" alt="StartHub">
+                    </a>
+
+                
+            </div>
+
+            <div class="header-left">
+                <a href="#" class="sidemenu-trigger sidemenu-icon-wrapper">
+                    <span class="sidemenu-icon">
+                        <span><i></i><b></b></span>
+                        <span><i></i><b></b></span>
+                        <span><i></i><b></b></span>
+                    </span>
+                </a>
+            </div>
+            <div class="header-right">
+                <a href="#" class="second-menu-trigger second-menu-icon-wrapper">
+                    <span class="second-menu-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+                    
+                    <!--<i class="icon-storage"></i>-->
+                </a>
+            </div>
+
+            <div class="second-menu">
+                    <div class="second-menu-main">
+                       <div class="second-menu-inner">
+                        <div class="scroll-container-wrapper">
+                            <div class="scroll-container">
+                                <div class="second-menu-section">
+                                   
+                                    
+
+                                    
+                                        <!-- The search form -->
+                                        <div class="search-form-wrapper">
+                                            <form id="searchform" class="search-form kleo-search-wrap kleo-search-form " method="get"  action="http://a62.dc4.myftpupload.com/" data-context=""><input id="main-search" class="header-search ajax_s" autocomplete="off" type="text" name="s" value="" placeholder="Search"><button type="submit" class="header-search-button"></button><div class="kleo_ajax_results search-style-default"></div></form>                                        </div>
+
+                                    
+
+                                    
+                                        
+                                            <div class="show-login">
+                                                <a href="">
+                                                    <i class="icon-lock"></i>
+                                                    Login                                                </a>
+                                            </div>
+
+                                        
+                                    
+
+                                    
+                                </div>
+                                
+                                
+                                
+                            </div>
+                        </div>
+                        
+                        
+                       </div>
+                    </div>
+                    
+
+            </div>
+
+
+
+    </div>
+
+</header><!-- #header end -->
+
+
+
+
+
+<div id="content" class="tpl-full-width">
+	<div id="main-container" class="clearfix">
+
+		<div class="main" role="main">
+			<div class="content-wrap">
+
+			
+
+<!-- Page Title
+============================================= -->
+<section id="page-title" class="page-title-colors">
+
+    <div class="container-fluid clearfix">
+
+        <h1>Members</h1><span>StartHub: Meetups with Purpose</span>
+    </div>
+
+</section><!-- #page-title end -->
+<div class="main-content container-fluid">
+
+    
+            <article id="post-0" class="post-0 page type-page status-publish hentry">
+
+                <div class="entry-content">
+                    
+<div id="buddypress">
+
+	
+	
+	<div id="members-dir-search" class="dir-search" role="search">
+		<form action="" method="get" id="search-members-form">
+		<label for="members_search"><input type="text" name="members_search" id="members_search" placeholder="Search Members..." /></label>
+		<input type="submit" id="members_search_submit" name="members_search_submit" value="Search" />
+	</form>	</div><!-- #members-dir-search -->
+
+	
+	<form action="" method="post" id="members-directory-form" class="dir-form">
+
+		<div class="item-list-tabs" role="navigation">
+			<ul>
+				<li class="selected" id="members-all"><a href="http://a62.dc4.myftpupload.com/members/">All Members <span>1</span></a></li>
+
+				
+				
+
+				
+				<li id="members-order-select" class="last filter">
+					<label for="members-order-by">Order By:</label>
+					<select id="members-order-by">
+						<option value="active">Last Active</option>
+						<option value="newest">Newest Registered</option>
+
+													<option value="alphabetical">Alphabetical</option>
+						
+											</select>
+				</li>
+			</ul>
+		</div>
+
+		<div id="members-dir-list" class="members dir-list">
+			
+
+
+
+	<div id="pag-top" class="pagination">
+
+		<div class="pag-count" id="member-dir-count-top">
+
+			Viewing 1 active member
+		</div>
+
+		<div class="pagination-links" id="member-dir-pag-top">
+
+			
+		</div>
+
+	</div>
+
+	
+	<ul id="members-list" class="item-list">
+
+	
+		<li class="bp-single-member">
+			<div class="item-wrap">
+				<div class="item-cover">
+
+					<div class="item-avatar">
+						<a href="http://a62.dc4.myftpupload.com/members/gamer456148/"><img src="//www.gravatar.com/avatar/17064f0c6bae9ffbaae45f7ce557c253?s=80&#038;r=g&#038;d=retro" class="avatar user-1-avatar avatar-80 photo" width="80" height="80" alt="Profile picture of gamer456148" /></a>
+						<span class="kleo-online-status"></span>					</div>
+
+				</div>
+
+				<div class="item">
+
+					<div class="item-title">
+						<a href="http://a62.dc4.myftpupload.com/members/gamer456148/">gamer456148</a>
+					</div>
+
+					<div class="item-meta"><span class="activity">active 24 minutes ago</span></div>
+
+					
+
+
+					
+					
+					<div class="action">
+
+						
+					</div><!-- end action -->
+				</div><!-- end item -->
+			</div><!-- end item-wrap -->
+		</li>
+
+	
+	</ul>
+
+	
+	
+	<div id="pag-bottom" class="pagination">
+
+		<div class="pag-count" id="member-dir-count-bottom">
+
+			Viewing 1 active member
+		</div>
+
+		<div class="pagination-links" id="member-dir-pag-bottom">
+
+			
+		</div>
+
+	</div>
+
+
+		</div><!-- #members-dir-list -->
+
+		
+		<input type="hidden" id="_wpnonce-member-filter" name="_wpnonce-member-filter" value="abe6e18e08" /><input type="hidden" name="_wp_http_referer" value="/" />
+		
+	</form><!-- #members-directory-form -->
+
+	
+</div><!-- #buddypress -->
+
+                </div><!-- .entry-content -->
+
+            </article><!-- #post-## -->
+
+        
+</div>
+        
+
+			
+			</div><!--end .content-wrap-->
+		</div><!--end .main-->
+
+		
+	</div><!--end #main-container-->
+</div>
+<!--END MAIN SECTION-->
+
+        
+    </div><!-- #page-wrapper -->
+	
+    	
+	<!-- Analytics -->
+		
+	
+<!-- Generated in 1.019 seconds. (55 q) -->
+
+	    <script>
+        // Additional JS functions here
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '281675381905370', // App ID
+                version    : 'v2.1',
+                status     : true, // check login status
+                cookie     : true, // enable cookies to allow the server to access the session
+                xfbml      : true,  // parse XFBML
+                oauth      : true
+            });
+
+            // Additional init code here
+            jQuery('#fb-root').trigger('facebook:init');
+
+        };
+
+        // Load the SDK asynchronously
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+    </script>
+    <script type="text/javascript">
+        var fbAjaxUrl = 'http://a62.dc4.myftpupload.com/wp-login.php';
+
+        jQuery(document).ready(function() {
+
+            jQuery('.kleo-facebook-connect').click(function() {
+
+                // fix iOS Chrome
+                if (navigator.userAgent.match('CriOS')) {
+                    window.open('https://www.facebook.com/dialog/oauth?client_id=281675381905370&redirect_uri=' + document.location.href + '&scope=email,public_profile&response_type=token', '', null);
+                } else {
+                    FB.login(function(FB_response){
+                            if (FB_response.authResponse) {
+                                fb_intialize(FB_response, '');
+                            }
+                        },
+                        {
+                            scope: 'email',
+                            auth_type: 'rerequest',
+                            return_scopes: true
+                        });
+                }
+            });
+
+            if (navigator.userAgent.match('CriOS')) {
+                jQuery("#fb-root").bind("facebook:init", function () {
+                    var accToken = jQuery.getUrlVar('#access_token');
+                    if (accToken) {
+                        var fbArr = {scopes: "email"};
+                        fb_intialize(fbArr, accToken);
+                    }
+                });
+            }
+
+        });
+
+        function fb_intialize(FB_response, token){
+            FB.api( '/me', 'GET', {
+                    fields : 'id,email,verified,name',
+                    access_token : token
+                },
+                function(FB_userdata){
+                    jQuery.ajax({
+                        type: 'POST',
+                        url: fbAjaxUrl,
+                        data: {"action": "fb_intialize", "FB_userdata": FB_userdata, "FB_response": FB_response},
+                        success: function(user){
+                            if( user.error ) {
+                                alert( user.error );
+                            }
+                            else if( user.loggedin ) {
+                                jQuery('.kleo-login-result').html(user.message);
+                                if( user.type === 'login' ) {
+                                    if(window.location.href.indexOf("wp-login.php") > -1) {
+                                        window.location = user.url;
+                                    } else if (user.redirectType == 'reload') {
+                                        window.location.reload();
+                                    } else {
+                                        window.location = user.url;
+                                    }
+                                }
+                                else if( user.type === 'register' ) {
+                                    window.location = user.url;
+                                }
+                            }
+                        }
+                    });
+                }
+            );
+        }
+
+        jQuery.extend({
+            getUrlVars: function(){
+                var vars = [], hash;
+                var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+                for(var i = 0; i < hashes.length; i++)
+                {
+                    hash = hashes[i].split('=');
+                    vars.push(hash[0]);
+                    vars[hash[0]] = hash[1];
+                }
+                return vars;
+            },
+            getUrlVar: function(name){
+                return jQuery.getUrlVars()[name];
+            }
+        });
+    </script>
+    <!-- Modal Login form -->
+<div id="kleo-login-modal" class="kleo-form-modal main-color mfp-hide">
+
+    
+<div class="kleo-login-wrap light-login"> <!--add .dark-login for the dark version-->
+    
+    <div class="login-shadow-wrapper">
+
+        <div class="before-login-form-wrapper">        <p class="fb-register-title">Sign up faster</p>
+        <div class="kleo-fb-wrapper">
+            <a href="#" class="kleo-facebook-connect btn btn-default"><i class="icon-facebook"></i><span>Log in with Facebook</span></a>
+        </div>
+
+        </div>
+           
+        <div class="login-form-wrapper">
+            <div class="kleo-pop-title-wrap">
+                <h3 class="kleo-pop-title">Log in with your credentials</h3>
+            </div>
+
+            
+            <form action="http://a62.dc4.myftpupload.com/wp-login.php?redirect_to=http%3A%2F%2Fa62.dc4.myftpupload.com%2Fwp-login.php" name="login_form" method="post" class="sq-login-form kleo-form-signin">
+                <input type="hidden" id="security-login" name="security-login" value="f63c6dd733" /><input type="hidden" name="_wp_http_referer" value="/" />                
+                <span class="login-input-wrapper">
+                    <input type="text" class="form-control login-field username" required name="log" value="">
+                    <label class="login-label">
+                        <span class="login-label-content">Username</span>
+                    </label>
+                </span>
+                
+                <span class="login-input-wrapper">
+                    <input type="password" class="form-control login-field" required name="pwd" value="">
+                    <label class="login-label">
+                        <span class="login-label-content">Password</span>
+                    </label>
+                </span>
+                
+                <div class="kleo-result kleo-login-result"></div>
+                <button class="btn btn-lg btn-default btn-block login-button" type="submit">Sign in</button>
+                
+                <div class="fancy-checkbox">
+                    <input name="rememberme" type="checkbox" value="forever">
+                    <label></label>
+                    <span>Remember me</span>
+                    <a href="#kleo-lostpass-modal" class="show-lostpass kleo-other-action">Lost your password?</a>
+                </div>
+                <span class="clearfix"></span>
+            
+                            
+            </form>
+        </div>
+
+        
+            <div class="login-create-account-wrapper">
+
+                <div class="kleo-register-link">Don&#039;t have an account yet?                    <a href="http://a62.dc4.myftpupload.com/about/" class="new-account">
+                        Create an account                    </a>
+                </div>
+
+            </div>
+
+                
+    </div>
+
+</div>
+
+
+
+
+
+</div><!-- END Modal Login form -->
+
+
+<!-- Modal Lost Password form -->
+<div id="kleo-lostpass-modal" class="kleo-form-modal main-color mfp-hide">
+
+    <div class="kleo-login-wrap">
+
+    <div class="login-form-wrapper">
+       
+        <div class="kleo-pop-title-wrap alternate-color">
+            <h3 class="kleo-pop-title">Forgot your details?</h3>
+        </div>
+        
+                
+        <form name="forgot_form" action="http://a62.dc4.myftpupload.com/wp-login.php" method="post" class="sq-forgot-form kleo-form-signin">
+            <input type="hidden" id="security-lost-pass" name="security-lost-pass" value="6fa549a10b" /><input type="hidden" name="_wp_http_referer" value="/" />            
+            <span class="login-input-wrapper">
+                <input type="text" id="forgot-email" required name="email" class="form-control login-field">
+                <label class="login-label">
+                    <span class="login-label-content">Username or Email</span>
+                </label>
+            </span>
+            
+            <div class="kleo-lost-result kleo-result"></div>
+            
+            <button class="btn btn-lg btn-default btn-block login-button" type="submit">Reset Password</button>
+            
+            <a href="#kleo-login-modal" class="show-login kleo-other-action">I remember my details</a>
+            
+        </form>
+        
+    </div>
+
+</div>
+
+
+</div><!-- END Modal Lost Password form -->
+
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.8-5815'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/backbone.min.js?ver=1.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var template_url = "http:\/\/a62.dc4.myftpupload.com\/wp-admin\/admin-ajax.php?action=rtmedia_get_template&template=media-gallery-item";
+var rtmedia_exteansions = {"photo":["jpg","jpeg","png","gif"],"video":["mp4"],"music":["mp3"]};
+var rtMedia_plupload_config = {"url":"\/upload\/","runtimes":"html5,flash,html4","browse_button":"rtMedia-upload-button","container":"rtmedia-upload-container","drop_element":"drag-drop-area","filters":[{"title":"Media Files","extensions":"jpg,jpeg,png,gif,mp4,mp3"}],"max_file_size":"64M","multipart":"1","urlstream_upload":"1","flash_swf_url":"http:\/\/a62.dc4.myftpupload.com\/wp-includes\/js\/plupload\/plupload.flash.swf","silverlight_xap_url":"http:\/\/a62.dc4.myftpupload.com\/wp-includes\/js\/plupload\/plupload.silverlight.xap","file_data_name":"rtmedia_file","multi_selection":"1","multipart_params":{"redirect":"no","action":"wp_handle_upload","_wp_http_referer":"\/","mode":"file_upload","rtmedia_upload_nonce":"c53e005d42"},"max_file_size_msg":"64M"};
+var rMedia_loading_file = "http:\/\/a62.dc4.myftpupload.com\/wp-admin\/images\/loading.gif";
+var rMedia_loading_media = "http:\/\/a62.dc4.myftpupload.com\/wp-content\/plugins\/buddypress-media\/app\/assets\/admin\/img\/boxspinner.gif";
+var rtmedia_media_thumbs = {"photo":"http:\/\/a62.dc4.myftpupload.com\/wp-content\/plugins\/buddypress-media\/app\/assets\/admin\/img\/image_thumb.png","video":"http:\/\/a62.dc4.myftpupload.com\/wp-content\/plugins\/buddypress-media\/app\/assets\/admin\/img\/video_thumb.png","music":"http:\/\/a62.dc4.myftpupload.com\/wp-content\/plugins\/buddypress-media\/app\/assets\/admin\/img\/audio_thumb.png"};
+var rtmedia_set_featured_image_msg = "Featured media set successfully.";
+var rtmedia_unset_featured_image_msg = "Featured media removed successfully.";
+var rtmedia_edit_media_info_upload = {"title":"Title:","description":"Description:"};
+var rtmedia_load_more_or_pagination = "load_more";
+var rtmedia_bp_enable_activity = "1";
+var rtmedia_upload_progress_error_message = "There are some uploads in progress. Do you want to cancel them?";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress-media/app/assets/js/rtMedia.backbone.js?ver=3.10.5'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/a62.dc4.myftpupload.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/a62.dc4.myftpupload.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.72'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/js/plugins.js?ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var KLEO = {"ajaxurl":"http:\/\/a62.dc4.myftpupload.com\/wp-admin\/admin-ajax.php","loadingMessage":"<i class=\"icon-refresh animate-spin\"><\/i> Sending info, please wait...","errorMessage":"Sorry, an error occurred. Try again later.","bpAjaxRefresh":"30000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/themes/buddyapp/assets/js/functions.min.js?ver=1.1.1'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-content/plugins/buddypress-media/lib/touchswipe/jquery.touchSwipe.min.js?ver=3.10.5'></script>
+<script type='text/javascript' src='http://a62.dc4.myftpupload.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+
+</body>
+</html>

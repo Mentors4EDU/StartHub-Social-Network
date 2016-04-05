@@ -1,0 +1,45 @@
+<?php
+/**
+ * Shortcodes
+ *
+ * @package     WordPress
+ * @subpackage  BuddyBoss BMT
+ */
+
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) exit;
+
+
+/**
+ * Members by type Shortcode
+ *
+ * Displays buddypress members by type.
+ *
+ * @param array/string $atts an associative array of attributes, or an empty string if no attributes are given
+ * @return string
+ */
+function bmt_members( $atts ) {
+
+	ob_start();
+
+	echo '<div id="buddypress">';
+
+	echo '<div class="members">';
+
+	if ( ! empty( $atts['type'] ) ) {
+		// Set the "current" member type, if one is provided, in member directories.
+		buddypress()->current_member_type = $atts['type'];
+	}
+
+	//Get a BuddyPress members-loop template part for display in a theme.
+	bp_get_template_part( 'members/members-loop' );
+
+	echo '</div>';
+
+	echo '</div>';
+
+	return ob_get_clean();
+
+}
+
+add_shortcode( 'members', 'bmt_members' );

@@ -1,0 +1,14 @@
+.statistics{padding: 20px 0; background: rgba(0,0,0,0.45); background-size: cover;position: relative;}
+.statistics .stat{display: inline-block; margin: 35px 25px; line-height: 1.4;}
+.statistics h2{text-align: center;z-index: 2;position: relative;}
+.statistics .stat span{margin-bottom: 10px;}
+.stat .stat-icon, .stat .number, .stat .count-title{display: block; width: 100%; text-align: center;}
+.stat .number, .stat .count-title{font-size: 1.4em}
+.stat .number{color: khaki; font-size: 25px;}
+.statistics-inner{padding: 15px 3%; text-align: center;z-index: 2;position: relative;}
+.statistics .stat .fa, .statistics .stat .count-title{color: whitesmoke;}
+.statistics .sec-title{margin-bottom: -20px;}
+.stat .fa{font-size: 36px}
+.stat .count-title {font-size: 16px}
+.statistics.n3 .stat .fa, .statistics.n4 .stat .fa{display: none;}
+.statistics.n5 .stat .count-title, .statistics.n6 .stat .count-title{display: none;}

@@ -1,0 +1,111 @@
+*
+* TF-Numbers
+* Author : Aleksej Vukomanovic
+*/
+
+//Statistics in numbers
+jQuery.fn.statsCounter = function(){
+   //declaring vars 
+    var stat = this.find('.statistics-inner .stat');  
+    var startValue = 0;
+    var speed = this.data('sp');
+    speed = speed * 100;
+    var comma = this.data('cm');
+    var go = {};
+    var end = {};
+    var number = {};
+    var start = {};
+    var count = {};
+    
+
+    //iterate through every .stat class and collect values
+   stat.each(function(){ 
+      var index = jQuery(this).index();
+      count[index] = jQuery(this).data('count');
+      count[index] = parseInt(count[index],10);
+      number[index] = jQuery(this).find('.number');
+      start[index] = 0;
+      jQuery({someValue: 0}).animate({someValue: count[index]}, {
+          duration: speed,
+          easing:'swing', // can be anything
+          step: function() { // called on every step
+              // Update the element's text with rounded-up value:
+              if( 'on' == comma )
+                number[index].text(commaSeparateNumber(Math.round(this.someValue)));
+              else {
+                number[index].text(Math.round(this.someValue));
+              }
+          },
+          complete: function() {
+            if( 'on' == comma )
+              number[index].text(commaSeparateNumber(count[index]));
+            else
+              number[index].text(count[index]);
+          }
+      });
+
+  });//stat.each()
+
+  // source : http://goo.gl/EsdpV1
+   function commaSeparateNumber(val){
+    while (/(\d+)(\d{3})/.test(val.toString())){
+      val = val.toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,");
+    }
+    return val;
+  }
+
+}//statsCounter();
+
+  //if visible src = http://www.rupertlanuza.com/how-to-check-if-element-is-visible-in-the-screen-using-jquery/
+  function isElementVisible(elementToBeChecked) {
+    var TopView = jQuery(window).scrollTop();
+    var BotView = TopView + jQuery(window).height();
+    var TopElement = jQuery(elementToBeChecked).offset().top;
+    var BotElement = TopElement + jQuery(elementToBeChecked).height();
+    return ((BotElement <= BotView) && (TopElement >= TopView));
+  }
+
+jQuery(document).ready(function(jQuery){
+
+   var statistics = jQuery('.statistics');
+
+   if( statistics.length > 0 ) {
+
+	    //setting counts to 0
+	   if( jQuery('.stat').length > 0 ){
+	      var stat = jQuery('.stat');
+	      stat.each(function(){
+	        stat.find('.number').text(0);
+           var icon = jQuery(this).find('span');
+           icon.each(function(){
+             var val = jQuery(this).attr('class');
+             if( val.indexOf('.') != -1 && jQuery(this).find('img').length <= 0 ) {
+                jQuery(this).append('<img src="'+val+'" />');
+              }
+           });
+	      })
+	    }
+	    //animating when scrolled
+	    var countDone = 0;
+      var cmo = jQuery('.statistics').data('cmo');
+      if( jQuery(window).width() > 780 && cmo != 'on' ) {
+  	    jQuery(window).scroll(function(){
+  	      //if .statistics exists, initialize
+    	    if( jQuery('.statistics').length ){
+    	      var visible = isElementVisible('.statistics');
+    	    
+    	    //if stats section visible, start the counting after 400ms
+    	     if( visible && countDone == 0 ) { //check if it's not already done
+    	       setTimeout(function(){
+                countDone = 1;
+      	        jQuery('.statistics').statsCounter();
+    	       },400);
+    	      }//if visible && not shown
+    	     }//if exists
+  	    });//scroll function
+      } else {
+          countDone = 1;
+          jQuery('.statistics').statsCounter();
+      }// window.width()
+	}
+});

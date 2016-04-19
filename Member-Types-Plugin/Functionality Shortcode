@@ -1,0 +1,11 @@
+/**
+ * Remove the members directory member types 
+ * added by BuddyPress Members Types plugin.
+ */
+function remove_bpt_members_type_dir() {
+    global $BUDDYBOSS_BMT;
+
+    remove_action( 'bp_members_directory_member_types', array( $BUDDYBOSS_BMT->component, 'bpt_members_directory' ) );
+}
+
+add_action( 'bp_init', 'remove_bpt_members_type_dir' );

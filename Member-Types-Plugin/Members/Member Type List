@@ -1,0 +1,20 @@
+<form action="" method="post" id="members-directory-form" class="dir-form">
+		<div class="item-list-tabs" role="navigation">
+			<ul>
+				<li class="selected" id="members-all"><a href="http://a62.dc4.myftpupload.com/members/">All Members <span>82</span></a></li>
+				
+				<li id="members-user" class="bp-member-type-filter">
+				<a href="http://a62.dc4.myftpupload.com/members/type/user/">
+				Users <span>1489</span></a></li><li id="members-student" class="bp-member-type-filter">
+				<a href="http://a62.dc4.myftpupload.com/members/type/student/">
+				Students <span>0</span></a></li><li id="members-professor" class="bp-member-type-filter">
+				<a href="http://a62.dc4.myftpupload.com/members/type/professor/">Professors <span>0</span>
+				</a></li><li id="members-employer" class="bp-member-type-filter">
+				<a href="http://a62.dc4.myftpupload.com/members/type/employer/">
+				Employers <span>0</span></a></li><li id="members-entrepreneur" class="bp-member-type-filter">
+				<a href="http://a62.dc4.myftpupload.com/members/type/entrepreneur/">
+				Entrepreneurs <span>0</span></a></li><li id="members-caterer" class="bp-member-type-filter">
+				<a href="http://a62.dc4.myftpupload.com/members/type/caterer/">Caterers <span>0</span>
+				</a></li><li id="members-deliverer" class="bp-member-type-filter">
+				<a href="http://a62.dc4.myftpupload.com/members/type/deliverer/">Deliverers <span>0</span>
+				</a></li>

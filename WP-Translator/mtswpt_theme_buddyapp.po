@@ -1,0 +1,9 @@
+<br />
+<b>Fatal error</b>:  Uncaught exception 'Exception' with message 'MY_WP_Translate_Po_Parser: Parse error! Unknown key &quot;#@&quot; on line #@ buddyapp' in /home/content/p3pnexwpnas10_data02/47/3185047/html/wp-content/plugins/my-wp-translate/includes/class-my-wp-translate-po-parser.php:252
+Stack trace:
+#0 /home/content/p3pnexwpnas10_data02/47/3185047/html/wp-content/plugins/my-wp-translate/admin/class-my-wp-translate-admin.php(875): MY_WP_Translate_Po_Parser-&gt;read('/home/content/p...')
+#1 /home/content/p3pnexwpnas10_data02/47/3185047/html/wp-content/plugins/my-wp-translate/admin/class-my-wp-translate-admin.php(855): MY_WP_Translate_Admin-&gt;get_po_contents('mtswpt_theme_bu...')
+#2 [internal function]: MY_WP_Translate_Admin-&gt;get_po('')
+#3 /home/content/p3pnexwpnas10_data02/47/3185047/html/wp-includes/plugin.php(525): call_user_func_array(Array, Array)
+#4 /home/content/p3pnexwpnas10_data02/47/3185047/html/wp-settings.php(277): do_action('plugins_loaded')
+#5 /home/content/p3pnexwpnas10_data02/47/3185047/html/wp-config.php(95): require_once('/h in <b>/home/content/p3pnexwpnas10_data02/47/3185047/html/wp-content/plugins/my-wp-translate/includes/class-my-wp-translate-po-parser.php</b> on line <b>252</b><br />

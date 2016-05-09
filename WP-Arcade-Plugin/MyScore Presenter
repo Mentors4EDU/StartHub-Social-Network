@@ -1,0 +1,27 @@
+.widget-latest-scores li,
+.widget-most-active-players li,
+.widget-today-scores li,
+.widget-game-scores li,
+.widget-user-scores li
+{
+  margin-bottom: 5px;
+}
+
+.widget-latest-scores img.avatar,
+.widget-most-active-players img.avatar,
+.widget-today-scores img.avatar,
+.widget-game-scores img.avatar,
+.widget-user-scores img.avatar
+{
+  float: left;
+  margin-right: 5px;
+}
+
+#myscores_bp_wrap table{ width: 100%; border:1px solid #EAEAEA;margin:10px 0 20px 0;}
+#myscores_bp_wrap table thead th { padding: 5px 0; }
+#myscores_bp_wrap thead tr{background:#eaeaea;}
+#myscores_bp_wrap th.thgame { width: 70px;}
+#myscores_bp_wrap td.tdgamethumb, #myscores_bp_wrap td.tdscore, #myscores_bp_wrap td.tdmedalname { text-align: center;}
+#myscores_bp_wrap td.tdmedalthumb {text-align: center}
+#myscores_bp_wrap td.tdmedalthumb img {border:none;}
+.clear { clear: both; }

@@ -1,4 +1,4 @@
-package android.support.v4.app;
+package android.support.v7.app;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -15,7 +15,7 @@ class ActionBarDrawerToggleHoneycomb {
     private static final String TAG = "ActionBarDrawerToggleHoneycomb";
     private static final int[] THEME_ATTRS;
 
-    private static class SetIndicatorInfo {
+    static class SetIndicatorInfo {
         public Method setHomeActionContentDescription;
         public Method setHomeAsUpIndicator;
         public ImageView upIndicatorView;
@@ -53,38 +53,32 @@ class ActionBarDrawerToggleHoneycomb {
         THEME_ATTRS = new int[]{16843531};
     }
 
-    public static Object setActionBarUpIndicator(Object info, Activity activity, Drawable drawable, int contentDescRes) {
-        SetIndicatorInfo setIndicatorInfo;
-        if (info == null) {
-            setIndicatorInfo = new SetIndicatorInfo(activity);
-        }
-        SetIndicatorInfo sii = setIndicatorInfo;
-        if (sii.setHomeAsUpIndicator != null) {
+    public static SetIndicatorInfo setActionBarUpIndicator(SetIndicatorInfo info, Activity activity, Drawable drawable, int contentDescRes) {
+        info = new SetIndicatorInfo(activity);
+        if (info.setHomeAsUpIndicator != null) {
             try {
                 ActionBar actionBar = activity.getActionBar();
-                sii.setHomeAsUpIndicator.invoke(actionBar, new Object[]{drawable});
-                sii.setHomeActionContentDescription.invoke(actionBar, new Object[]{Integer.valueOf(contentDescRes)});
+                info.setHomeAsUpIndicator.invoke(actionBar, new Object[]{drawable});
+                info.setHomeActionContentDescription.invoke(actionBar, new Object[]{Integer.valueOf(contentDescRes)});
             } catch (Exception e) {
                 Log.w(TAG, "Couldn't set home-as-up indicator via JB-MR2 API", e);
             }
-        } else if (sii.upIndicatorView != null) {
-            sii.upIndicatorView.setImageDrawable(drawable);
+        } else if (info.upIndicatorView != null) {
+            info.upIndicatorView.setImageDrawable(drawable);
         } else {
             Log.w(TAG, "Couldn't set home-as-up indicator");
         }
-        return setIndicatorInfo;
+        return info;
     }
 
-    public static Object setActionBarDescription(Object info, Activity activity, int contentDescRes) {
-        SetIndicatorInfo setIndicatorInfo;
+    public static SetIndicatorInfo setActionBarDescription(SetIndicatorInfo info, Activity activity, int contentDescRes) {
         if (info == null) {
-            setIndicatorInfo = new SetIndicatorInfo(activity);
+            info = new SetIndicatorInfo(activity);
         }
-        SetIndicatorInfo sii = setIndicatorInfo;
-        if (sii.setHomeAsUpIndicator != null) {
+        if (info.setHomeAsUpIndicator != null) {
             try {
                 ActionBar actionBar = activity.getActionBar();
-                sii.setHomeActionContentDescription.invoke(actionBar, new Object[]{Integer.valueOf(contentDescRes)});
+                info.setHomeActionContentDescription.invoke(actionBar, new Object[]{Integer.valueOf(contentDescRes)});
                 if (VERSION.SDK_INT <= 19) {
                     actionBar.setSubtitle(actionBar.getSubtitle());
                 }
@@ -92,7 +86,7 @@ class ActionBarDrawerToggleHoneycomb {
                 Log.w(TAG, "Couldn't set content description via JB-MR2 API", e);
             }
         }
-        return setIndicatorInfo;
+        return info;
     }
 
     public static Drawable getThemeUpIndicator(Activity activity) {

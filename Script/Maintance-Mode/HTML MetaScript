@@ -1,0 +1,40 @@
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+
+        <head>
+            <meta charset="utf-8"></meta>
+            <meta content="IE=edge" http-equiv="X-UA-Compatible"></meta>
+            <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+            <title></title>
+            <!--
+
+             Bootstrap 
+
+            -->
+            <link rel="stylesheet" href="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/css/public/bootstrap/css/bootstrap.min.css"></link>
+            <link rel="stylesheet" href="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/css/public/bootstrap/css/bootstrap-theme.min.css"></link>
+            <link rel="stylesheet" href="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/views/themes/default/assets/css/style.css"></link>
+            <!--
+
+             HTML5 Shim and Respond.js IE8 support of HTML5 el…
+
+            -->
+            <!--
+
+            -->
+            <!--
+
+            [if lt IE 9]>
+                  <script src="https://oss.maxcd…
+
+            -->
+            <script src="http://andsocialrew.net/wp-includes/js/jquery/jquery.js?ver=1.12.3" type="text/javascript"></script>
+            <script src="http://andsocialrew.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0" type="text/javascript"></script>
+            <script src="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/css/public/bootstrap/js/bootstrap.min.js"></script>
+            <script src="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/views/themes/default/assets/js/jquery.countdown.min.js"></script>
+            <link id="textfont-css" media="all" type="text/css" href="http://fonts.googleapis.com/css?family= :400,300,700,900" rel="stylesheet"></link>
+        </head>
+        <body></body>
+    </html>

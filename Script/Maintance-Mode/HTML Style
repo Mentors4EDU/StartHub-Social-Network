@@ -1,0 +1,102 @@
+ <!DOCTYPE html>
+    <html lang="en">
+
+        <head>
+            <meta charset="utf-8"></meta>
+            <meta content="IE=edge" http-equiv="X-UA-Compatible"></meta>
+            <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+            <title>
+
+                Under Construction
+
+            </title>
+            <!--
+
+             Bootstrap 
+
+            -->
+            <link rel="stylesheet" href="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/css/public/bootstrap/css/bootstrap.min.css"></link>
+            <link rel="stylesheet" href="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/css/public/bootstrap/css/bootstrap-theme.min.css"></link>
+            <link rel="stylesheet" href="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/views/themes/default/assets/css/style.css"></link>
+            <!--
+
+             HTML5 Shim and Respond.js IE8 support of HTML5 el…
+
+            -->
+            <!--
+
+             WARNING: Respond.js doesn't work if you view the …
+
+            -->
+            <!--
+
+            [if lt IE 9]>
+                  <script src="https://oss.maxcd…
+
+            -->
+            <script src="http://andsocialrew.net/wp-includes/js/jquery/jquery.js?ver=1.12.3" type="text/javascript"></script>
+            <script src="http://andsocialrew.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0" type="text/javascript"></script>
+            <script src="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/css/public/bootstrap/js/bootstrap.min.js"></script>
+            <script src="http://andsocialrew.net/wp-content/plugins/coming-soon-builder/views/themes/default/assets/js/jquery.countdown.min.js"></script>
+            <link id="textfont-css" media="all" type="text/css" href="http://fonts.googleapis.com/css?family= :400,300,700,900" rel="stylesheet"></link>
+        </head>
+        <body>
+            <div id="wrapper" class="">
+                <div class="container">
+                    ::before
+                    <div class="row">
+                        ::before
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div id="logo">
+                                <img src=""></img>
+                            </div>
+                            <h1>
+
+                                We are down for maintenance
+
+                            </h1>
+                            <div id="content">
+                                <p></p>
+                            </div>
+                        </div>
+                        ::after
+                    </div>
+                    <div class="row">
+                        ::before
+                        <script>
+
+
+                            /*
+                                    Subscription form
+                                */
+                            jQuery(functi…
+
+                        </script>
+                        <span>
+                        </span>
+                        ::after
+                    </div>
+                    ::after
+                </div>
+            </div>
+            <script>
+
+
+                      jQuery(function ($) {
+                        $('#countdown…
+
+            </script>
+            <style>
+
+
+                body{
+                    background-color: ;
+                    color: ;
+                }
+
+                bod…
+
+            </style>
+        </body>
+    </html>
+

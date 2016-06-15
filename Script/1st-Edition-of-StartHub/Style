@@ -1,0 +1,102 @@
+element.style {
+}
+
+section#page-title {
+}
+#page-title {
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+#page-title {
+    padding: 40px 0;
+    clear: both;
+}
+#page-title, #page-title .container, #posts, .entry, .entry-c, .quote, .quote p, ul.entry-meta li i {
+    position: relative;
+}
+.page-title-colors {
+    background-color: #fff;
+    color: rgba(0,0,0,0.55);
+    border-color: rgba(0,0,0,0.1);
+}
+.page-title-colors {
+    background-color: #fafafa;
+    color: rgba(0,0,0,.55);
+}
+.header-colors, .header-colors .mpost, .header-colors .spost, .page-title-colors, .page-title-colors .mpost, .page-title-colors .spost {
+    border-color: rgba(0,0,0,.1);
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+*, .flexslider .slider-wrap>.slide {
+    -webkit-backface-visibility: hidden;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+Inherited from div#main-container.clearfix
+.clearfix {
+    zoom: 1;
+}
+Inherited from div#page-wrapper.clearfix
+.clearfix {
+    zoom: 1;
+}
+Inherited from body.home-page.directory.members.buddypress.home.page.page-id-42.page-template-default.logged-in.bp-member-types.page-transition.buddyapp.wpb-js-composer.js-comp-ver-4.11.vc_responsive.js.device-md
+body {
+    color: #727272;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body, h5 {
+    font-size: 1rem;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::selection element
+::selection {
+    background: #ff2a5b;
+}
+::selection {
+    color: #fff;
+    text-shadow: none;
